@@ -1,0 +1,5 @@
+/Users/denyssementsov/Projects/codeingame.medium.war/codeingame.medium.war/bin/Debug/codeingame.medium.war.exe
+/Users/denyssementsov/Projects/codeingame.medium.war/codeingame.medium.war/bin/Debug/codeingame.medium.war.pdb
+/Users/denyssementsov/Projects/codeingame.medium.war/codeingame.medium.war/obj/x86/Debug/codeingame.medium.war.csproj.CoreCompileInputs.cache
+/Users/denyssementsov/Projects/codeingame.medium.war/codeingame.medium.war/obj/x86/Debug/codeingame.medium.war.exe
+/Users/denyssementsov/Projects/codeingame.medium.war/codeingame.medium.war/obj/x86/Debug/codeingame.medium.war.pdb
